@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/17 20:16:50.000.176,=C:\Users\wyllm\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:19:30.000.500,=C:\Users\wyllm\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:23:15.000.020,C:\Users\wyllm\Music\Sistemas Criado\Agenda\unitPrincipal.pas=C:\Users\wyllm\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:23:15.000.020,C:\Users\wyllm\Music\Sistemas Criado\Agenda\unitPrincipal.dfm=C:\Users\wyllm\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 20:23:42.000.582,C:\Users\wyllm\Music\Sistemas Criado\Agenda\Agenda.dproj=C:\Users\wyllm\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/17 20:29:59.000.216,=C:\Users\wyllm\Music\Sistemas Criado\Agenda\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:31:21.000.960,C:\Users\wyllm\Music\Sistemas Criado\Agenda\unitDM.pas=C:\Users\wyllm\Music\Sistemas Criado\Agenda\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:31:21.000.960,C:\Users\wyllm\Music\Sistemas Criado\Agenda\unitDM.dfm=C:\Users\wyllm\Music\Sistemas Criado\Agenda\Unit1.dfm</Transaction>
+    <Transaction>2022/08/18 19:50:07.000.805,=C:\Users\wyllm\Music\Sistemas Criado\Agenda\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
